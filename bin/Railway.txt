@@ -1,0 +1,8 @@
+Name :
+Phone Number :
+Age :
+Train Name :NONE
+Destination :NONE
+Starting Point :NONE
+Seat Class :NONE
+Fare :
